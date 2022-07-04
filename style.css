@@ -273,6 +273,8 @@ a[data-lightbox]:hover img {
     margin: 0 auto;
 }
 
+
+
 .lightbox-caption {
     padding: 20px;
     color: #FFF;
@@ -698,4 +700,8 @@ q {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+*:focus {
+    outline: 3px solid #5555ff!important;
 }
